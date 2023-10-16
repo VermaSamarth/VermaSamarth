@@ -3,6 +3,9 @@
 <br>
 ### Hi there 👋 Welcome to my Portfolio 🌟✨
 I'm a dedicated and passionate individual with a fervent love for programming and web development. For me, the world of technology is more than just a career; it's a calling. I thrive on using my technical expertise to tackle real-world challenges and make a positive impact on society. It's not just about writing code; it's about creating solutions that matter. 
+- 🏫 I'm currently a 3rd year college student pursuing a Bachelor's degree in Computer Science and Engineering at Vellore Institute of Technology, Vellore.
+- 🌱 I’m currently on the path of mastering the Data Structures and Algorithm.
+- 
 <!--
 **VermaSamarth/VermaSamarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
