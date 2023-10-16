@@ -1,4 +1,4 @@
-# Samarthe Verma
+# Samarth Verma
 ### Hi there 👋
 
 <!--
