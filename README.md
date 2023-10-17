@@ -3,7 +3,7 @@
 <br>
 ### Hi there 👋 Welcome to my Profile 🌟✨
 I'm a dedicated and passionate individual with a fervent love for programming and web development. For me, the world of technology is more than just a career; it's a calling. I thrive on using my technical expertise to tackle real-world challenges and make a positive impact on society. It's not just about writing code; it's about creating solutions that matter. 
-- 🧑🏻‍🎓 I'm currently studying at Vellore Institute of Technology, Vellore.
+- 🧑🏻‍🎓 I'm currently studying at `Vellore Institute of Technology, Vellore`.
 - 🏢 Ex-Intern in `Globtier Infotech` and `Asiana Times`.
 - 🌱 I’m currently on the path of mastering the Data Structures and Algorithm.
 - ⚡ I have built a few projects in Laravel, a PHP based framework.
@@ -22,6 +22,7 @@ I'm a dedicated and passionate individual with a fervent love for programming an
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VermaSamarth)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/samarthverma1813)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[![Python](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 #
 ### 🫱🏼‍🫲🏻 Lets Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-verma-sv07/)
