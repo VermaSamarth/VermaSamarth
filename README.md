@@ -10,8 +10,8 @@ I'm a dedicated and passionate individual with a fervent love for programming an
 - 🧠 Fluent in programing lanaguages like Java, C++, C, Laravel etc.
 #
 ### 🧰 Languages and Tools:
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![C](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white)](https://learn-c.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
