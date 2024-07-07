@@ -7,7 +7,7 @@ I'm a dedicated and passionate individual with a fervent love for programming an
 - 🏢 Ex-Intern in `Globtier Infotech` and `Asiana Times`.
 - 🌱 I’m currently on the path of mastering the Data Structures and Algorithm.
 - ⚡ I have built a few projects in Laravel, a PHP based framework.
-- 🧠 Fluent in programing lanaguages like Java, C++, C, Laravel etc.
+- 🧠 Fluent in programing lanaguages like C++, Java, C, etc.
 #
 ### 🧰 Languages and Tools:
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
